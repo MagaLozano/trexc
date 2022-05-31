@@ -1,2 +1,1 @@
-# trexc
-juego divertido 
+# JUEGOS-COMPATIBLES-CON-DISPOSITIVOS-AM2
